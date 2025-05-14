@@ -8,11 +8,7 @@ import Section05 from './Main_Section/Section05'
 const Main = () => {
     return (
         <div className='main_wrap'>
-            <Section01 />
-            <Section02 />
-            <Section03 />
-            <Section04 />
-            <Section05 />
+
         </div>
     )
 }
